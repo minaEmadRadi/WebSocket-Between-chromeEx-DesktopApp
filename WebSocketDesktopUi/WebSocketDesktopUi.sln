@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketDesktopUi", "WebSocketDesktopUi\WebSocketDesktopUi.csproj", "{DEAF4C37-362D-4E82-B3AB-8F4BEF7525DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAF4C37-362D-4E82-B3AB-8F4BEF7525DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAF4C37-362D-4E82-B3AB-8F4BEF7525DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAF4C37-362D-4E82-B3AB-8F4BEF7525DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAF4C37-362D-4E82-B3AB-8F4BEF7525DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0B4BD3F-3A43-4DC6-80EB-390EB844A2FD}
+	EndGlobalSection
+EndGlobal

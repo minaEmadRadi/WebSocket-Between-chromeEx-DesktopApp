@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\WebSocketDesktopUi\WebSocketDesktopUi\obj\Debug\WebSocketDesktopUi.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\WebSocketDesktopUi\WebSocketDesktopUi\obj\Debug\WebSocketDesktopUi.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\WebSocketDesktopUi\WebSocketDesktopUi\obj\Debug\WebSocketDesktopUi.Form1.resources
+C:\Users\pc\source\repos\WebSocketDesktopUi\WebSocketDesktopUi\obj\Debug\WebSocketDesktopUi.Properties.Resources.resources
+C:\Users\pc\source\repos\WebSocketDesktopUi\WebSocketDesktopUi\obj\Debug\WebSocketDesktopUi.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\WebSocketDesktopUi\WebSocketDesktopUi\obj\Debug\WebSocketDesktopUi.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\WebSocketDesktopUi\WebSocketDesktopUi\bin\Debug\WebSocketDesktopUi.exe.config
+C:\Users\pc\source\repos\WebSocketDesktopUi\WebSocketDesktopUi\bin\Debug\WebSocketDesktopUi.exe
+C:\Users\pc\source\repos\WebSocketDesktopUi\WebSocketDesktopUi\bin\Debug\WebSocketDesktopUi.pdb
+C:\Users\pc\source\repos\WebSocketDesktopUi\WebSocketDesktopUi\obj\Debug\WebSocketDesktopUi.exe
+C:\Users\pc\source\repos\WebSocketDesktopUi\WebSocketDesktopUi\obj\Debug\WebSocketDesktopUi.pdb
